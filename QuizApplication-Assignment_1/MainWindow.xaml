@@ -1,0 +1,60 @@
+﻿<Window x:Class="QuizApplication_Assignment_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QuizApplication_Assignment_1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="1000">
+    <Canvas>
+        <Canvas.Background>
+            <ImageBrush ImageSource="/welcomeScreen.jpg"/>
+        </Canvas.Background>
+        <Button Content="Push to Start" Canvas.Left="426" Canvas.Top="363" Height="47" Width="148" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="20" FontFamily="Yu Gothic UI" FontWeight="Bold" Background="#FF595959" Foreground="White" Click="Button_Click"/>
+        <Image x:Name="quizImg" Height="600" Width="1000" Source="/quizBg.jpg" HorizontalAlignment="Center" VerticalAlignment="Center" Stretch="Fill" Visibility="Hidden"/>
+        <TextBlock x:Name="questionBox" Canvas.Left="116" Canvas.Top="84" Height="154" Width="748" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White" FontFamily="Gill Sans MT" FontSize="18" Padding="20,10,20,10" UseLayoutRounding="False" ScrollViewer.VerticalScrollBarVisibility="Disabled" MaxHeight="154" MaxWidth="748" MinWidth="748" MinHeight="154" Visibility="Hidden" TextWrapping="Wrap">
+            <TextBlock.Background>
+                <SolidColorBrush Color="#FF615F5F" Opacity="0.7"/>
+            </TextBlock.Background></TextBlock>
+        <Button x:Name="nextBnt" Canvas.Left="860" Canvas.Top="461" Height="80" Width="80" HorizontalAlignment="Left" VerticalAlignment="Center" Background="Black" BorderBrush="{x:Null}" Click="nxtClick" Visibility="Hidden">
+            <Image Height="80" Width="80" Source="/navigation.jpg" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        </Button>
+        <Button x:Name="prevBtn" Canvas.Left="45" Canvas.Top="461" Height="80" Width="80" VerticalAlignment="Top" ScrollViewer.VerticalScrollBarVisibility="Disabled" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Click="prevClick" Visibility="Hidden">
+            <Button.BorderBrush>
+                <SolidColorBrush Color="#FF707070" Opacity="0"/>
+            </Button.BorderBrush>
+            <Button.Background>
+                <SolidColorBrush Color="#FFDDDDDD" Opacity="0"/>
+            </Button.Background>
+            <Image Height="80" Width="80" Source="/next.jpg" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" VerticalAlignment="Top">
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="-180"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Image.RenderTransform>
+            </Image>
+        </Button>
+        <Grid Height="181" Canvas.Left="148" Canvas.Top="320" Width="707">
+            <TextBlock x:Name="optA" HorizontalAlignment="Left" Height="37" Margin="30,30,0,0" VerticalAlignment="Top" Width="195" Background="#FF907C43" Foreground="White" FontSize="14" TextWrapping="Wrap" Padding="5,2,5,2" ScrollViewer.CanContentScroll="True" TextAlignment="Center" Visibility="Hidden"/>
+            <TextBlock x:Name="optB" Height="37" Width="195" Background="#FF907C43" Foreground="White" FontSize="14" TextWrapping="Wrap" Padding="5,2,5,2" ScrollViewer.CanContentScroll="True" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="30,0,0,30" TextAlignment="Center" Visibility="Hidden"/>
+            <TextBlock x:Name="optC" Height="37" Background="#FF907C43" Foreground="White" FontSize="14" TextWrapping="Wrap" Padding="5,2,5,2" ScrollViewer.CanContentScroll="True" VerticalAlignment="Top" Margin="0,30,30,0" HorizontalAlignment="Right" Width="195" TextAlignment="Center" Visibility="Hidden"/>
+            <TextBlock x:Name="optD" Background="#FF907C43" Foreground="White" FontSize="14" TextWrapping="Wrap" Padding="5,2,5,2" ScrollViewer.CanContentScroll="True" Margin="0,0,30,30" HorizontalAlignment="Right" Width="195" Height="37" VerticalAlignment="Bottom" TextAlignment="Center" Visibility="Hidden"/>
+            <RadioButton x:Name="btnA" Content="" HorizontalAlignment="Left" Margin="30,30,0,0" VerticalAlignment="Top" Height="37" Width="195" Visibility="Hidden"/>
+            <RadioButton x:Name="btnC" Content="" HorizontalAlignment="Left" Margin="482,30,0,0" VerticalAlignment="Top" Height="37" Width="195" Visibility="Hidden"/>
+            <RadioButton x:Name="btnB" Content="" HorizontalAlignment="Left" Margin="30,114,0,0" VerticalAlignment="Top" Height="37" Width="195" Visibility="Hidden"/>
+            <RadioButton x:Name="btnD" Content="" HorizontalAlignment="Left" Margin="482,114,0,0" VerticalAlignment="Top" Height="37" Width="195" Visibility="Hidden"/>
+            <GroupBox x:Name="optionBox" HorizontalAlignment="Center" Height="161" Header="" VerticalAlignment="Center" Width="687" ScrollViewer.VerticalScrollBarVisibility="Disabled" Visibility="Hidden"/>
+        </Grid>
+        <TextBlock x:Name="scoreCounter" TextWrapping="Wrap" Height="47" Canvas.Left="886" Canvas.Top="40" Width="104" FontSize="20" FontWeight="Bold" TextAlignment="Center" FontFamily="Gill Sans MT" Visibility="Hidden">
+            <TextBlock.Background>
+                <SolidColorBrush Color="#FF726F6F" Opacity="0.7"/>
+            </TextBlock.Background><Run Language="en-in"/></TextBlock>
+        <Label x:Name="scoreTxt" Content="Score" Canvas.Left="909" Canvas.Top="10" Height="44" Width="81" FontFamily="Gill Sans MT" FontSize="20" Visibility="Hidden"/>
+        <Button x:Name="finishButton" Content="Submit Quiz" Canvas.Left="426" Canvas.Top="477" Height="47" Width="148" FontSize="20" FontFamily="Yu Gothic UI" FontWeight="Bold" Background="#FF595959" Foreground="White" Click="btn_fin" HorizontalAlignment="Center" VerticalAlignment="Top" Visibility="Hidden"/>
+
+
+    </Canvas>
+</Window>

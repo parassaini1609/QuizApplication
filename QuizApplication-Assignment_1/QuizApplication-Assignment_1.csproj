@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>QuizApplication_Assignment_1</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="navigation.jpg" />
+    <None Remove="next.jpg" />
+    <None Remove="previous.jpeg" />
+    <None Remove="previous.jpg" />
+    <None Remove="quizBg.jpg" />
+    <None Remove="welcomeScreen.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="navigation.jpg" />
+    <Resource Include="next.jpg" />
+    <Resource Include="previous.jpeg" />
+    <Resource Include="previous.jpg" />
+    <Resource Include="quizBg.jpg" />
+    <Resource Include="welcomeScreen.jpg" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,5 @@
+C:\Users\4538016\OneDrive - GUSCanada\Desktop\appli\QuizApplication-Assignment_1.exe
+C:\Users\4538016\OneDrive - GUSCanada\Desktop\appli\QuizApplication-Assignment_1.dll
+C:\Users\4538016\OneDrive - GUSCanada\Desktop\appli\QuizApplication-Assignment_1.deps.json
+C:\Users\4538016\OneDrive - GUSCanada\Desktop\appli\QuizApplication-Assignment_1.runtimeconfig.json
+C:\Users\4538016\OneDrive - GUSCanada\Desktop\appli\QuizApplication-Assignment_1.pdb

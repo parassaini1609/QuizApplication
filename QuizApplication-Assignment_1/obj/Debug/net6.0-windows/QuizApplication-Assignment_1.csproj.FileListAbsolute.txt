@@ -1,0 +1,100 @@
+C:\Users\paras\OneDrive\Desktop\C#\QuizApplication-Assignment_1\QuizApplication-Assignment_1\bin\Debug\net6.0-windows\QuizApplication-Assignment_1.exe
+C:\Users\paras\OneDrive\Desktop\C#\QuizApplication-Assignment_1\QuizApplication-Assignment_1\bin\Debug\net6.0-windows\QuizApplication-Assignment_1.deps.json
+C:\Users\paras\OneDrive\Desktop\C#\QuizApplication-Assignment_1\QuizApplication-Assignment_1\bin\Debug\net6.0-windows\QuizApplication-Assignment_1.runtimeconfig.json
+C:\Users\paras\OneDrive\Desktop\C#\QuizApplication-Assignment_1\QuizApplication-Assignment_1\bin\Debug\net6.0-windows\QuizApplication-Assignment_1.dll
+C:\Users\paras\OneDrive\Desktop\C#\QuizApplication-Assignment_1\QuizApplication-Assignment_1\bin\Debug\net6.0-windows\QuizApplication-Assignment_1.pdb
+C:\Users\paras\OneDrive\Desktop\C#\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\paras\OneDrive\Desktop\C#\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\paras\OneDrive\Desktop\C#\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1_MarkupCompile.cache
+C:\Users\paras\OneDrive\Desktop\C#\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1_MarkupCompile.lref
+C:\Users\paras\OneDrive\Desktop\C#\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\paras\OneDrive\Desktop\C#\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.g.resources
+C:\Users\paras\OneDrive\Desktop\C#\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paras\OneDrive\Desktop\C#\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.AssemblyInfoInputs.cache
+C:\Users\paras\OneDrive\Desktop\C#\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.AssemblyInfo.cs
+C:\Users\paras\OneDrive\Desktop\C#\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.csproj.CoreCompileInputs.cache
+C:\Users\paras\OneDrive\Desktop\C#\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.dll
+C:\Users\paras\OneDrive\Desktop\C#\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\refint\QuizApplication-Assignment_1.dll
+C:\Users\paras\OneDrive\Desktop\C#\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.pdb
+C:\Users\paras\OneDrive\Desktop\C#\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.genruntimeconfig.cache
+C:\Users\paras\OneDrive\Desktop\C#\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\ref\QuizApplication-Assignment_1.dll
+C:\Users\4538016\Downloads\QuizApplication-Assignment_1\QuizApplication-Assignment_1\bin\Debug\net6.0-windows\QuizApplication-Assignment_1.exe
+C:\Users\4538016\Downloads\QuizApplication-Assignment_1\QuizApplication-Assignment_1\bin\Debug\net6.0-windows\QuizApplication-Assignment_1.deps.json
+C:\Users\4538016\Downloads\QuizApplication-Assignment_1\QuizApplication-Assignment_1\bin\Debug\net6.0-windows\QuizApplication-Assignment_1.runtimeconfig.json
+C:\Users\4538016\Downloads\QuizApplication-Assignment_1\QuizApplication-Assignment_1\bin\Debug\net6.0-windows\QuizApplication-Assignment_1.dll
+C:\Users\4538016\Downloads\QuizApplication-Assignment_1\QuizApplication-Assignment_1\bin\Debug\net6.0-windows\QuizApplication-Assignment_1.pdb
+C:\Users\4538016\Downloads\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\4538016\Downloads\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\4538016\Downloads\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1_MarkupCompile.cache
+C:\Users\4538016\Downloads\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1_MarkupCompile.lref
+C:\Users\4538016\Downloads\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\4538016\Downloads\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.g.resources
+C:\Users\4538016\Downloads\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4538016\Downloads\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.AssemblyInfoInputs.cache
+C:\Users\4538016\Downloads\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.AssemblyInfo.cs
+C:\Users\4538016\Downloads\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.csproj.CoreCompileInputs.cache
+C:\Users\4538016\Downloads\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.dll
+C:\Users\4538016\Downloads\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\refint\QuizApplication-Assignment_1.dll
+C:\Users\4538016\Downloads\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.pdb
+C:\Users\4538016\Downloads\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.genruntimeconfig.cache
+C:\Users\4538016\Downloads\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\ref\QuizApplication-Assignment_1.dll
+C:\Users\4538016\Desktop\QuizApplication-Assignment_1 (2)\QuizApplication-Assignment_1\QuizApplication-Assignment_1\bin\Debug\net6.0-windows\QuizApplication-Assignment_1.exe
+C:\Users\4538016\Desktop\QuizApplication-Assignment_1 (2)\QuizApplication-Assignment_1\QuizApplication-Assignment_1\bin\Debug\net6.0-windows\QuizApplication-Assignment_1.deps.json
+C:\Users\4538016\Desktop\QuizApplication-Assignment_1 (2)\QuizApplication-Assignment_1\QuizApplication-Assignment_1\bin\Debug\net6.0-windows\QuizApplication-Assignment_1.runtimeconfig.json
+C:\Users\4538016\Desktop\QuizApplication-Assignment_1 (2)\QuizApplication-Assignment_1\QuizApplication-Assignment_1\bin\Debug\net6.0-windows\QuizApplication-Assignment_1.dll
+C:\Users\4538016\Desktop\QuizApplication-Assignment_1 (2)\QuizApplication-Assignment_1\QuizApplication-Assignment_1\bin\Debug\net6.0-windows\QuizApplication-Assignment_1.pdb
+C:\Users\4538016\Desktop\QuizApplication-Assignment_1 (2)\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\4538016\Desktop\QuizApplication-Assignment_1 (2)\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\4538016\Desktop\QuizApplication-Assignment_1 (2)\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1_MarkupCompile.cache
+C:\Users\4538016\Desktop\QuizApplication-Assignment_1 (2)\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1_MarkupCompile.lref
+C:\Users\4538016\Desktop\QuizApplication-Assignment_1 (2)\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\4538016\Desktop\QuizApplication-Assignment_1 (2)\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.g.resources
+C:\Users\4538016\Desktop\QuizApplication-Assignment_1 (2)\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4538016\Desktop\QuizApplication-Assignment_1 (2)\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.AssemblyInfoInputs.cache
+C:\Users\4538016\Desktop\QuizApplication-Assignment_1 (2)\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.AssemblyInfo.cs
+C:\Users\4538016\Desktop\QuizApplication-Assignment_1 (2)\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.csproj.CoreCompileInputs.cache
+C:\Users\4538016\Desktop\QuizApplication-Assignment_1 (2)\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.dll
+C:\Users\4538016\Desktop\QuizApplication-Assignment_1 (2)\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\refint\QuizApplication-Assignment_1.dll
+C:\Users\4538016\Desktop\QuizApplication-Assignment_1 (2)\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.pdb
+C:\Users\4538016\Desktop\QuizApplication-Assignment_1 (2)\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.genruntimeconfig.cache
+C:\Users\4538016\Desktop\QuizApplication-Assignment_1 (2)\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\ref\QuizApplication-Assignment_1.dll
+C:\Users\paras\OneDrive\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\bin\Debug\net6.0-windows\QuizApplication-Assignment_1.exe
+C:\Users\paras\OneDrive\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\bin\Debug\net6.0-windows\QuizApplication-Assignment_1.deps.json
+C:\Users\paras\OneDrive\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\bin\Debug\net6.0-windows\QuizApplication-Assignment_1.runtimeconfig.json
+C:\Users\paras\OneDrive\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\bin\Debug\net6.0-windows\QuizApplication-Assignment_1.dll
+C:\Users\paras\OneDrive\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\bin\Debug\net6.0-windows\QuizApplication-Assignment_1.pdb
+C:\Users\paras\OneDrive\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\paras\OneDrive\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\paras\OneDrive\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1_MarkupCompile.cache
+C:\Users\paras\OneDrive\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1_MarkupCompile.lref
+C:\Users\paras\OneDrive\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\paras\OneDrive\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.g.resources
+C:\Users\paras\OneDrive\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paras\OneDrive\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.AssemblyInfoInputs.cache
+C:\Users\paras\OneDrive\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.AssemblyInfo.cs
+C:\Users\paras\OneDrive\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.csproj.CoreCompileInputs.cache
+C:\Users\paras\OneDrive\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.dll
+C:\Users\paras\OneDrive\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\refint\QuizApplication-Assignment_1.dll
+C:\Users\paras\OneDrive\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.pdb
+C:\Users\paras\OneDrive\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.genruntimeconfig.cache
+C:\Users\paras\OneDrive\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\ref\QuizApplication-Assignment_1.dll
+C:\Users\4538016\OneDrive - GUSCanada\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\bin\Debug\net6.0-windows\QuizApplication-Assignment_1.exe
+C:\Users\4538016\OneDrive - GUSCanada\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\bin\Debug\net6.0-windows\QuizApplication-Assignment_1.deps.json
+C:\Users\4538016\OneDrive - GUSCanada\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\bin\Debug\net6.0-windows\QuizApplication-Assignment_1.runtimeconfig.json
+C:\Users\4538016\OneDrive - GUSCanada\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\bin\Debug\net6.0-windows\QuizApplication-Assignment_1.dll
+C:\Users\4538016\OneDrive - GUSCanada\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\bin\Debug\net6.0-windows\QuizApplication-Assignment_1.pdb
+C:\Users\4538016\OneDrive - GUSCanada\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\4538016\OneDrive - GUSCanada\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\4538016\OneDrive - GUSCanada\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1_MarkupCompile.cache
+C:\Users\4538016\OneDrive - GUSCanada\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1_MarkupCompile.lref
+C:\Users\4538016\OneDrive - GUSCanada\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\4538016\OneDrive - GUSCanada\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.g.resources
+C:\Users\4538016\OneDrive - GUSCanada\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4538016\OneDrive - GUSCanada\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.AssemblyInfoInputs.cache
+C:\Users\4538016\OneDrive - GUSCanada\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.AssemblyInfo.cs
+C:\Users\4538016\OneDrive - GUSCanada\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.csproj.CoreCompileInputs.cache
+C:\Users\4538016\OneDrive - GUSCanada\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.dll
+C:\Users\4538016\OneDrive - GUSCanada\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\refint\QuizApplication-Assignment_1.dll
+C:\Users\4538016\OneDrive - GUSCanada\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.pdb
+C:\Users\4538016\OneDrive - GUSCanada\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\QuizApplication-Assignment_1.genruntimeconfig.cache
+C:\Users\4538016\OneDrive - GUSCanada\Desktop\QuizApplication-Assignment_1\QuizApplication-Assignment_1\obj\Debug\net6.0-windows\ref\QuizApplication-Assignment_1.dll
